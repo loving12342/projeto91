@@ -1,0 +1,36 @@
+body{
+    background-color: lightpink;
+    color: mistyrose;
+    text-align: center;
+}
+
+#entrar{
+    margin-left: 38%;
+    padding: 20px;
+    background-color: lightpink;
+    color:rgb(255, 255, 255);
+    width: 25%;
+    border-style: ridge;
+    border-radius: 50px;
+    border-color:white
+}
+
+button{
+    background-color: lightpink;
+    color:white;
+    padding: 10px;
+    border-style: ridge;
+    border-color: lightpink;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(255, 145, 164);
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 50px;
+}
